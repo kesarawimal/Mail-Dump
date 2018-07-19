@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "name": "Mail Dump",
+  "name": "Email Extractor",
   "version": "0.1",
   "background": {
     "scripts": ["background.js"]
@@ -29,7 +29,7 @@
       "48": "images/icon48.png",
       "128": "images/icon128.png"
     },
-    "default_title": "Mail Dump",
+    "default_title": "Email Extractor",
     "default_popup": "popup.html"
   }
 }
